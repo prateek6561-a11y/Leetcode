@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prateek6561-a11y/Leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/prateek6561-a11y/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/prateek6561-a11y/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prateek6561-a11y/Leetcode/tree/master/0075-sort-colors) |
 ## Binary Search
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prateek6561-a11y/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prateek6561-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/prateek6561-a11y/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/prateek6561-a11y/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
