@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2951-find-the-peaks](https://github.com/prateek6561-a11y/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/prateek6561-a11y/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
