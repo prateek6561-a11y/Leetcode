@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek6561-a11y/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2951-find-the-peaks](https://github.com/prateek6561-a11y/Leetcode/tree/master/2951-find-the-peaks) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/prateek6561-a11y/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/prateek6561-a11y/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/prateek6561-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -57,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/prateek6561-a11y/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek6561-a11y/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prateek6561-a11y/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek6561-a11y/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
