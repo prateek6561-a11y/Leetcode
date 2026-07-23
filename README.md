@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prateek6561-a11y/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/prateek6561-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2951-find-the-peaks](https://github.com/prateek6561-a11y/Leetcode/tree/master/2951-find-the-peaks) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prateek6561-a11y/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/prateek6561-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
