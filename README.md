@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prateek6561-a11y/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
