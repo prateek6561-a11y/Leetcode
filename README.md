@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/prateek6561-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/prateek6561-a11y/Leetcode/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prateek6561-a11y/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/prateek6561-a11y/Leetcode/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/prateek6561-a11y/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
