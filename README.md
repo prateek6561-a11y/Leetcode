@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prateek6561-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prateek6561-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/prateek6561-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prateek6561-a11y/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prateek6561-a11y/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
