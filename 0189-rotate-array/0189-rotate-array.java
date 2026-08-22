@@ -1,21 +1,19 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n=nums.length;
-        if(k%n==0){
-            return;
+        // int idx=0;
+        // int curr=nums[idx];
+        int count=0;
+        for(int i=0;count<n;i++){
+       int  idx=i;
+        int curr=nums[i];
+        do{
+         int next=nums[(idx+k)%n];
+         nums[(idx+k)%n]=curr;
+         curr=next;
+         idx=(idx+k)%n;
+         count=count+1;
+        }while(idx!=i);
         }
-        k%=n;
-        rotate(nums,0,n-1);
-        rotate(nums,0,k-1);
-        rotate(nums,k,n-1);
-        }
-        public void rotate(int nums[],int start,int end){
-            while(start<=end){
-                int temp=nums[start];
-                nums[start]=nums[end];
-                nums[end]=temp;
-                start++;
-                end--;
-            }
     }
 }
