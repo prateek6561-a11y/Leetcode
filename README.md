@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prateek6561-a11y/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/prateek6561-a11y/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/prateek6561-a11y/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prateek6561-a11y/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prateek6561-a11y/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/prateek6561-a11y/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prateek6561-a11y/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prateek6561-a11y/Leetcode/tree/master/0231-power-of-two) |
