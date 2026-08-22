@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/prateek6561-a11y/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/prateek6561-a11y/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prateek6561-a11y/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prateek6561-a11y/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prateek6561-a11y/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0268-missing-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prateek6561-a11y/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prateek6561-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/prateek6561-a11y/Leetcode/tree/master/0344-reverse-string) |
