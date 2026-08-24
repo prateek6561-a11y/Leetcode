@@ -5,11 +5,11 @@ class Solution {
         for(int n:nums){
             if(n==1){
                 cC++;
-            }else{
                 mC=Math.max(cC,mC);
+            }else{
                 cC=0;
             }
         }
-        return Math.max(cC,mC);
+        return mC;
     }
 }
