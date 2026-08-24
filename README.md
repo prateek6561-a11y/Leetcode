@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prateek6561-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2951-find-the-peaks](https://github.com/prateek6561-a11y/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/prateek6561-a11y/Leetcode/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |
