@@ -1,11 +1,19 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int ctt=0;
-        for(int n:nums){
-            if(Integer.toString(n).length()%2==0){
-                ctt++;
-            }
+    int count=0;
+    for(int num:nums){
+        if(check(num)%2==0){
+            count++;
         }
-        return ctt;
     }
+    return count;
+    }
+        public int check(int num){
+            int count=0;
+            while(num>0){
+                count++;
+                num/=10;
+            }
+        return count;
+        }
 }
