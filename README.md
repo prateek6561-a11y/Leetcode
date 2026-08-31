@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prateek6561-a11y/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek6561-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek6561-a11y/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek6561-a11y/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/prateek6561-a11y/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek6561-a11y/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek6561-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prateek6561-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prateek6561-a11y/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/prateek6561-a11y/Leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateek6561-a11y/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prateek6561-a11y/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
